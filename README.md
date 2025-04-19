@@ -1,1 +1,1 @@
-# 📁 Repositorio para uso pessoal de arquivos 
+# 📁 Repositório para uso pessoal de arquivos 
